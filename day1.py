@@ -27,3 +27,11 @@ num2 = int(input("Enter the second number: "))
 
 result = num1 * num2
 print("The product of", num1, "and", num2, "is:", result)
+
+
+a = int(input("num1 = "))
+b = int(input("num2 = "))
+print("sum =",a+b)
+print("subtract =",a-b)
+print("multiple =",a*b)
+print("divide =",a/b)
